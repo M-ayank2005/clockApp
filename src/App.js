@@ -71,7 +71,7 @@ const App = () => {
             <TimerIcon size={24} />
           </button>
         </div>
-        <h1 className="text-6xl text center font-bold">Clock App</h1>
+        <h1 className="text-6xl text center font-bold">Clock</h1>
        
         
           <div className="flex flex-col items-end">
